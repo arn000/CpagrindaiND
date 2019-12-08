@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575830152 source:c:\users\arnas\desktop\pacman\main.c
+	"con_lib.h"
+
+1575830160 c:\users\arnas\desktop\pacman\con_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/select.h>
+	<termios.h>
+	<time.h>
+	<unistd.h>
+	<signal.h>
+	<stdio.h>
+	<windows.h>
+
